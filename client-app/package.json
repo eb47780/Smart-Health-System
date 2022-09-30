@@ -27,7 +27,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "react-scroll": "^1.8.2",
-    "recharts": "^2.0.9",
+    "recharts": "^2.1.14",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.3",
     "tslint": "^6.1.3",
